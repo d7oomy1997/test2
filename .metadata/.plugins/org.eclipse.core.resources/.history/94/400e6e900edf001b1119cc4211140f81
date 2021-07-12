@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <form>
+ <fieldset>
+ <br/>
+ Name:<select id="Class" name="Class">
+   <option value="volvo">Volvo</option>
+ <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+ </select>
+ <br/>
+ Class Number:<br/>
+ <select id="Class" name="Class">
+   <option value="01">01</option>
+ <option value="02">02</option>
+    <option value="03">03</option>
+    <option value="04">04</option>
+ </select>
+ </fieldset>
+ </form>
+</body>
+</html>

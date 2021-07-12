@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form>
+<fieldset>
+Name:<br/><input type="text" placeholder="inter name">
+  <br/>
+  Email:<br/> <input type="email" placeholder="inter email">
+  <br/>
+  Gender:
+  <br/><select >
+    <option value="male">male</option>
+    <option value="female">female</option>
+  </select>
+ <br/>
+ Age:<br/>
+  <input type="text">
+  </fieldset><br/>
+  <input type="button" value="save">
+  </form>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form>
+<fieldset>
+Name:<br/><input type="text" placeholder="inter name">
+  <br/>
+  Email:<br/> <input type="email" placeholder="inter email">
+  <br/>
+  Gender:
+  <br/><select >
+    <option value="male">male</option>
+    <option value="female">female</option>
+  </select>
+ <br/>
+ Age:<br/>
+  <input type="text" placeholder="age"><br/>
+  Class Number:<br/>
+ <select id="Class" name="Class">
+   <option value="01">01</option>
+ <option value="02">02</option>
+    <option value="03">03</option>
+    <option value="04">04</option>
+ </select>
+  <br/>
+  Role:<br/><select >
+    <option value="Teacher">Teacher</option>
+    <option value="Studnt">Studnt</option>
+  </select>
+  </fieldset><br/>
+  <input type="button" value="save">
+  </form>
+</body>
+</html>

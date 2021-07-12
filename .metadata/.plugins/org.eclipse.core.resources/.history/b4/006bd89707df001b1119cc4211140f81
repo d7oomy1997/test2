@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <h1>Create New Class </h1>
+ <br/>
+ <br/>
+ <form action="aaa" >
+ 
+ F-name:<select id="Class" name="Class">
+   <option value="volvo">Volvo</option>
+ <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+ </select>
+ 
+ </form>
+</body>
+</html>

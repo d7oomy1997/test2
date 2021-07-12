@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Teacher Information</h1>
+<form>
+<fieldset>
+Name:<br/><select>
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+  </select>
+  <br/>
+  Email:<br/> <input type="email">
+  <br/>
+  Gender:
+  <br/><select >
+    <option value="male">male</option>
+    <option value="female">female</option>
+  </select>
+ <br/>
+ Age:<br/>
+  <input type="text">
+  </fieldset><br/>
+  <input type="button" value="save">
+  </form>
+  
+</body>
+</html>

@@ -1,0 +1,7 @@
+<classpath>
+  <container id="Learners_Academy!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/Abdulrahman/Documents/GitHub/test2/Learners_Academy/src/main/webapp/WEB-INF/lib/hibernate-core-5.3.7.Final.jar">
+      <source-attachment-path>/Learners_Academy</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

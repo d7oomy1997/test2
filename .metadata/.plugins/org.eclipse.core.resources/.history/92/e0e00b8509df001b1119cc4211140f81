@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <h1>Create New Class </h1>
+ <br/>
+ <br/>
+ <form action="aaa" >
+ 
+ F-name:<select id="Class" name="Class">
+   <option value="volvo">Volvo</option>
+ <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+ </select>
+ <br/>
+ Room Number:<select id="Class" name="Class">
+   <option value="01">01</option>
+ <option value="02">02</option>
+    <option value="03">03</option>
+    <option value="04">04</option>
+ </select>
+<br/>
+Class Time:<select id="Class" name="Class">
+   <option value="10:00 am">10:00 am</option>
+ <option value="12:00 pm">12:00 pm</option>
+    <option value="02:00 pm">02:00 pm</option>
+    <option value="04:00 pm">04:00 pm</option>
+ </select> 
+ <br/>
+ <input type="submit" value="Create">
+ 
+ </form>
+</body>
+</html>
